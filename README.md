@@ -107,6 +107,8 @@ Call `configure_brand(name="Your company", font="Arial", palette={"NAVY":"#102A4
 - `.claude-plugin/plugin.json`: plugin metadata
 - `premium-pitch-deck-skill.zip`: standalone upload package
 
-## Rights and redistribution
+## License
 
-No open-source license is granted by this repository as prepared. The publisher should verify ownership and redistribution rights before making it public, and select a license if appropriate. Do not upload confidential source documents, financial models or third-party brand assets.
+Premium Deck is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Arnaud Brihay.
